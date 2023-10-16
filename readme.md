@@ -15,4 +15,5 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
 - se la pizza non è abbastanza calda, scaldarla
 - mangiare la pizza
 - se ne avanza, conservarla in frigo
+
 ![Soluzione proposta](Diagramma.jpg)
